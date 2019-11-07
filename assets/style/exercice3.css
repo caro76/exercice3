@@ -1,0 +1,21 @@
+#tableau1{
+    background-color: blue;
+    height: 100px;
+}
+#backgroundLegend{
+    background-color: blue;
+}
+#tableau2{
+    background-color: purple;
+    height: 100px;
+}
+#backgroundLegend1{
+    background-color: purple;
+}
+#tableau3{
+    background-color: palevioletred;
+    height: 200px;
+}
+#backgroundLegend2{
+    background-color: palevioletred;
+}
